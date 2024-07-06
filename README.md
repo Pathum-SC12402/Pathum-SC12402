@@ -3,6 +3,25 @@
 <h3 align="center">An undergraduate student of University of Ruhuna in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathum-sc12402&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-sc12402" /> </p>
+<h2>Profile Info</h2>
+<p>I am M.G. Pathum Dilshan Fernando, a 24-year-old undergraduate at the University of Ruhuna in Sri Lanka, specializing in Computer Science. Passionate about coding, I utilize a variety of code editors and have mastered several programming languages and tools. My expertise extends to both desktop and web application development, reflecting a strong dedication to creating innovative and functional software solutions.</p>
+
+<h2>Educational Info</h2>
+<ul>
+  <li>Studies department of Computer Science at University of Ruhuna</li>
+  <li>Studied at Holy Cross College Kalutara for A/Ls</li>
+  <li>Studied at Holy Cross College Payagala for secondary education</li>
+</ul>
+
+<h2>Soft Skills</h2>
+<ul>
+  <li>Communication</li>
+  <li>Teamwork</li>
+  <li>Problem-Solving</li>
+  <li>Leadership</li>
+  <li>Creativity</li>
+  <li>Critical Thinking</li>
+</ul>
 
 - 🌱 I’m currently learning **Node.js**
 
