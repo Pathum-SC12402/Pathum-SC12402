@@ -25,9 +25,9 @@
 </ul>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Experiences :</h2>
-<u>
+<ul>
   <li>A member of CSB Development</li>
-</u>
+</ul>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Current Status :</h2>
 <p>I am currently studying frameworks and languages for web development. In addition to my studies, I am working on individual projects and participating in group projects such as CSB development.</p>
