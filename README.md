@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="250px" width="750px">
+<img src="https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="270px" width="800px">
 <h1 align="center">Hi 👋, I'm Pathum Dilshan</h1>
 <h3 align="center">An undergraduate student of University of Ruhuna in Sri Lanka</h3>
 
