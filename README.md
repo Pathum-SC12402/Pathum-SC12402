@@ -1,4 +1,10 @@
-<img src="[https://camo.githubusercontent.com/3bd2246e70dae4ccc3cd250a0c0bdcd1376bd48f0b02bc22293cf71db7689e1a/68747470733a2f2f696d672e6672656570696b2e636f6d2f667265652d70686f746f2f61692d736974652d68656c70696e672d776974682d736f6674776172652d70726f64756374696f6e5f313236382d32313632302e6a70673f773d39393626743d73743d313732303236313539307e6578703d313732303236323139307e686d61633d38653639323464663734636536393933663361393335313532643465356337303862643266323636623763646534393166366362633265623264373136313031](https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg)" width="500px" height="200px">&nbsp;<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px></picture>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/3ff2b318-9dc7-4282-9549-0654cd81d8b2" alt="code-1839406_1280" width="600" height="300"/>
+  &nbsp;
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px"/>
+  </picture>
+</div>
 
 <h1 align="center">Hi 👋, I'm Pathum Dilshan</h1>
 <h3 align="center">An undergraduate student of University of Ruhuna in Sri Lanka</h3>
