@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/3ff2b318-9dc7-4282-9549-0654cd81d8b2" alt="code-1839406_1280" width="600" height="250"/>
+  <img src="https://github.com/user-attachments/assets/3ff2b318-9dc7-4282-9549-0654cd81d8b2" alt="code-1839406_1280" width="620" height="250"/>
   &nbsp;
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px"/>
+  <picture>  
+    <img src="https://github.com/user-attachments/assets/023b00b9-b501-42c7-aa20-aa932895a912" width="200px"/>
   </picture>
 </div>
 
