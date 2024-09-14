@@ -32,7 +32,7 @@
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Experiences :</h2>
 <ul>
-  <li>A member of CSB Development</li>
+  <li>An admin of CSB Development</li>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Current Status :</h2>
